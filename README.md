@@ -3,7 +3,7 @@
 
 <h2>Prerequisites</h2>
 <ul>
-<li>Node.js (>= 12.x)</li>
+<li>Node.js </li>
 <li>npm or yarn</li>
 <li>VS Code</li>
 </ul>
